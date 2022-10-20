@@ -289,6 +289,8 @@ nav{
     padding: 5px;
     word-spacing: 10px;
     text-align: center;
+        
+    width: 100%;
 }
 
 nav > a{
